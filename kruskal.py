@@ -44,6 +44,7 @@ graph = [[0, 1, 10],
          [1, 3, 15],
          [2, 3, 4]]
 
+
 mst = kruskal_mst(graph, V)
 
 total_cost = 0
